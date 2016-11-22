@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Settings>
+<Source>
+<Server>0.0.0.0</Server>
+<DBName>mydb</DBName>
+<TableName>dbo.tablename</TableName>
+<UserName>muser</UserName>
+<Password>*****</Password>
+</Source>
+<Destination>
+<ip></ip>
+<ip></ip>
+
+<!--<ip></ip>
+<ip></ip>-->
+<DBName>mydb</DBName>
+<TableName></TableName>
+<UserName>Systemusername</UserName>
+<Password>systempassword</Password>
+</Destination>
+<BackupFile>C:\Users\kothadineshkumar\Desktop\Power_Shell_Scripts\DataScraperScript\RawDataDumpBackup.csv</BackupFile>
+<Emailsettings>
+    <add key="Sender" value="" />
+    <add key="Receiver" value="arvindtechweb@gmail.com" />
+    <add key="SMTPUsername" value="" />
+    <add key="SenPass" value="" />
+    <add key="SenderDisplayName" value="Support" />
+    <add key="SMTPClientHost" value="email_.amazonaws.com" />
+    <add key="SMTPClientPort" value="2587" />
+</Emailsettings>
+
+</Settings>

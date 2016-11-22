@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Settings>
+<Source>C:\Users\arvindgeekuser\Desktop\apichange</Source>
+<RevertSource>C:\inetpub\wwwroot\Backupfiles\LastUpdate\bin</RevertSource>
+<Emailsettings>
+    <add key="Sender" value="support@arvindtechweb.com" />
+<add key="Receiver" value="arvindtechweb@gmail.com" />
+    <add key="SMTPUsername" value="ABCDEFGH" />
+    <add key="SenPass" value="SMTPPassword" />
+    <add key="SenderDisplayName" value="Support" />
+    <add key="SMTPClientHost" value="email_amazonaws.com" />
+    <add key="SMTPClientPort" value="587" />
+</Emailsettings>
+<Destination>
+<ip></ip>
+<ip></ip>
+<ip></ip>
+<ip></ip>
+<ip></ip>
+<ip></ip>
+</Destination>
+</Settings>
